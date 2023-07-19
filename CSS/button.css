@@ -1,0 +1,28 @@
+.button {
+    background-color: aqua;
+    color: black;
+    font: 20px;
+    padding-inline-start: 24px;
+    padding-inline-end: 24px;
+    padding-block-start: 13px;
+    padding-block-end: 13px;
+    text-transform: uppercase;
+    border-radius: 90px;
+    border: 2px solid black;
+    box-shadow: -4px 4px 14px black;
+    text-decoration: none;
+    text-align: center;
+    cursor: pointer;
+}
+
+.button.is-secondary {
+    background-color: unset;
+    border: 2px solid black;
+}
+
+.button:hover {
+    background-color: blueviolet;
+    transition: -4s ease all;
+    color: black;
+
+}

@@ -6,7 +6,7 @@
     display: flex;
     flex-direction: column;
     gap: 16px;
-    font: italic;
+    font: Poppins, sans-serif;
 }
 
 .hero-img {
@@ -18,13 +18,13 @@
     block-size: auto;
 }
 
-.hero h1 {
-    font: italic;
+.hero-description h1 {
+    font: Poppins, sans-serif;
     margin: 15px;
 }
 
-.hero h1 span:nth-last-of-type(1) {
-    font: italic;
+.hero-description h1 span:nth-last-of-type(1) {
+    font: Poppins, sans-serif;
     display: block;
 }
 
