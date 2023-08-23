@@ -8,3 +8,9 @@
 @import "./card.css";
 @import "./certificated.css";
 @import "./shared.css";
+
+body {
+background-color: #18a9c5;
+color: black;
+font-family: sans-serif;
+}
