@@ -8,6 +8,9 @@
 @import "./card.css";
 @import "./certificated.css";
 @import "./shared.css";
+@import "./copyright.css";
+@import "./footer.css";
+
 
 body {
 background-color: #18a9c5;
